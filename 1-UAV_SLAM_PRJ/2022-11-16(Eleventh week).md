@@ -25,14 +25,11 @@
 
 (2)修改真实遥控器通道映射
 
+![rgb图](https://github.com/ZJUT-IoCS-MAS/darren_pty/blob/main/1-UAV_SLAM_PRJ/1-pic/9.png)
 
 
-## 3.2
-
-
-
-
-
+## 3.2 遇到问题
+![rgb图](https://github.com/ZJUT-IoCS-MAS/darren_pty/blob/main/1-UAV_SLAM_PRJ/1-pic/10.png)
 
 
 
