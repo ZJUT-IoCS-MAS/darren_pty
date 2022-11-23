@@ -1,0 +1,3 @@
+/home/w/桌面/files_rename/build/CMakeFiles/rebuild_cache.dir
+/home/w/桌面/files_rename/build/CMakeFiles/edit_cache.dir
+/home/w/桌面/files_rename/build/CMakeFiles/rename.dir

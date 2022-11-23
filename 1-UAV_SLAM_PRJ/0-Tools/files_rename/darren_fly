@@ -1,0 +1,5 @@
+scripts/preprocess-sequence_lx.sh kitti-tracking data/kitti/pty_test1 test1 6
+
+
+./DynSLAMGUI --use_dispnet --enable-evaluation=false --dataset_root=/expand/Lx/DynSLAM/data/kitti/pty_test1/test1 --dataset_type=kitti-tracking --kitti_tracking_sequence_id=6
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/w/桌面/files_rename/Rename-img.cpp
+iostream
+-
+vector
+-
+string
+-
+cstdio
+-
+opencv2/opencv.hpp
+-
+
