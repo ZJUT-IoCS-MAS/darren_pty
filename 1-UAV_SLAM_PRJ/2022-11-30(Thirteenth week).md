@@ -12,5 +12,12 @@
 
 视频链接：https://www.bilibili.com/video/BV1jv4y1279X/?spm_id_from=333.999.0.0&vd_source=88bceb64b89804ec0cf90b2e004bf688
 
-## 2.2 深度图
+## 2.1.1 建图不完整问题
+InfiniTAM has run out of space in the Voxel Block Array 
+InfiniTAM在体素阵列中空间不足
+
+![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/17.png)
+
+## 2.1.2 深度图的问题
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/16.png)
+
