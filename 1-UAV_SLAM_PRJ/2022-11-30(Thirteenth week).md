@@ -15,9 +15,34 @@
 ### 2.1.1 建图不完整问题
 InfiniTAM has run out of space in the Voxel Block Array 
 InfiniTAM在体素阵列中空间不足
+![](https://github.com/ZJUT-IoCS-MAS/darren_pty/blob/main/1-UAV_SLAM_PRJ/1-pic/11.png)
 
-![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/17.png)
+- 代码定位
+```
+float allocatedSizeMiB = scene->localVBA.allocatedSize * sizeof(ITMVoxel) / 1024.0f / 1024.0f;
+printf("[Visible: %6d | Used blocks (primary): %8ld/%ld (%.2f%% free)\n" " Used excess list slots: %8ld/%ld | Total allocated size: %.2fMiB]\n",
+			tempData->noVisibleBlocks,
+			usedBlocks,
+			allocatedBlocks,
+			percentFree,
+			usedExcessEntries,
+			allocatedExcessEntries,
+			allocatedSizeMiB);
+```
+- 修改参数
 
-### 2.1.2 深度图的问题
+![](https://github.com/ZJUT-IoCS-MAS/darren_pty/blob/main/1-UAV_SLAM_PRJ/1-pic/12.png)
+
+
+
+
+
+## 2.1.2 深度图的问题
 ![](https://github.com/ZYJ-Group/darren_pty/blob/main/darren_pty/pic(Ninth%20week)/16.png)
 
+
+
+
+      
+      
+      
